@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
 <themes>
-<data xmls="xml" walls="walls" scs="screens"/>
+<data Xmls="xml"
+walls="walls"
+Screen="screens"/>
 <theme>
 <title>Name</title>
 <date>Date</date>

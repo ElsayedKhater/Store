@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <themes>
 <data Xmls="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/xml"
-walls="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/walls"
-Screen="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/screens"/>
+walls="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/walls/"
+Screen="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/screens/"/>
 <theme>
 <title>Whatsapp Stock</title>
 <date>BY Elsayed Khater</date>

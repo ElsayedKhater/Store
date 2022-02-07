@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <themes>
-<data xmls="http://theme.mellowhatsapp.com/Themes/Xmls" walls="http://theme.mellowhatsapp.com/Themes/walls" scs="http://theme.mellowhatsapp.com/Themes/Screen"/>
+<data xmls="http://theme.mellowhatsapp.com/Themes/Xmls/" walls="http://theme.mellowhatsapp.com/Themes/walls/" scs="http://theme.mellowhatsapp.com/Themes/Screen/"/>
 
 <theme>
 <title>WhatsappStock</title>

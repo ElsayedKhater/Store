@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <themes>
-<data Xmls="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/Xmls/"
-walls="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/walls/"
-Screen="https://raw.githubusercontent.com/ElsayedKhater/Store/main/Themes/Screen/"/>
+<data xmls="http://theme.mellowhatsapp.com/Themes/Xmls" walls="http://theme.mellowhatsapp.com/Themes/walls" scs="http://theme.mellowhatsapp.com/Themes/Screen"/>
+
 <theme>
 <title>WhatsappStock</title>
-<date>BY Rc Team</date>
+<date>BY Rc</date>
 </theme>
-<themes>
+
+
+</themes>
